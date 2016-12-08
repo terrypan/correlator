@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gn="http://www.geonames.org/ontology#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<gn:Feature rdf:about="http://sws.geonames.org/553450/">
+<rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/553450/about.rdf"/>
+<gn:name>Ivanovka</gn:name>
+<gn:alternateName>Ivanovka</gn:alternateName>
+<gn:alternateName>Kamennyye Klyuchi</gn:alternateName>
+<gn:alternateName xml:lang="ru">Ивановка</gn:alternateName>
+<gn:alternateName>Ивановка</gn:alternateName>
+<gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+<gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+<gn:countryCode>RU</gn:countryCode>
+<wgs84_pos:lat>53.55</wgs84_pos:lat>
+<wgs84_pos:long>53.23333</wgs84_pos:long>
+<gn:parentFeature rdf:resource="http://sws.geonames.org/515001/"/>
+<gn:parentCountry rdf:resource="http://sws.geonames.org/2017370/"/>
+<gn:parentADM1 rdf:resource="http://sws.geonames.org/515001/"/>
+<gn:nearbyFeatures rdf:resource="http://sws.geonames.org/553450/nearby.rdf"/>
+<gn:locationMap rdf:resource="http://www.geonames.org/553450/ivanovka.html"/>
+</gn:Feature>
+<foaf:Document rdf:about="http://sws.geonames.org/553450/about.rdf">
+<foaf:primaryTopic rdf:resource="http://sws.geonames.org/553450/"/>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+<cc:attributionURL rdf:resource="http://sws.geonames.org/553450/"/>
+<cc:attributionName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GeoNames</cc:attributionName>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-15</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-17</dcterms:modified>
+</foaf:Document>
+</rdf:RDF>
